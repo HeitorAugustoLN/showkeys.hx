@@ -84,7 +84,7 @@
              [height 3]
              [x (quotient (- (area-width rect) width) 2)]
              [y (- (area-height rect) height 2)]
-             [popup-style (theme-scope "ui.popup")]
+             [popup-style (theme-scope "ui.background")]
              [text-style (theme-scope "ui.text")])
         (block/render frame (area x y width height) (make-block popup-style popup-style "all" "rounded"))
         (frame-set-string! frame (+ x 1) (+ y 1) text text-style)))))
