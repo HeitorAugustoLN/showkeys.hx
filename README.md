@@ -2,7 +2,7 @@
 
 A Helix plugin to display pressed keys on screen.
 
-[showkeys.webm](https://github.com/user-attachments/assets/cc3a36ae-ff62-48ab-ad9b-64e7858c3256)
+[showkeys.webm](https://github.com/user-attachments/assets/03c62b77-2251-4771-88cd-d754521d5a6a)
 
 ## Usage
 
